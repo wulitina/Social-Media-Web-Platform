@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c28d13fb-3029-4745-ac62-35037825578e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/media/wink.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../social_book/core/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social_media/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/social_media/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social_media/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/social_media/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/tina/project/python-project/social_media/social_media/static",
+    "last_opened_file_path": "/Users/tina/project/python-project/social_media/media",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,6 +51,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$/social_media/static" />
       <recent name="$PROJECT_DIR$/templates" />
     </key>
@@ -68,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721580333929</updated>
       <workItem from="1721580335101" duration="480000" />
-      <workItem from="1721580820641" duration="5595000" />
+      <workItem from="1721580820641" duration="9434000" />
     </task>
     <servers />
   </component>
