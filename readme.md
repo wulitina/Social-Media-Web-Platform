@@ -20,4 +20,6 @@ python3 manage.py createsuperuser
 Email address: admin@socialbook.com
 password:admin)
 
+python3 manage.py makemigrations
+python3 manage.py migrate
 ```
