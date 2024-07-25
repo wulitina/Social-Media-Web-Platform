@@ -9,10 +9,8 @@
       <change afterPath="$PROJECT_DIR$/../django-social-media-website-main/.idea/django-social-media-website-main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpmc-task-1-main/.idea/jpmc-task-1-main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jpmc-task-2-main/.idea/jpmc-task-2-main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../social_book/core/urls.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
@@ -121,7 +119,7 @@
       <workItem from="1721580335101" duration="480000" />
       <workItem from="1721580820641" duration="29482000" />
       <workItem from="1721742182660" duration="18137000" />
-      <workItem from="1721823537264" duration="16109000" />
+      <workItem from="1721823537264" duration="19077000" />
     </task>
     <servers />
   </component>
