@@ -1,6 +1,11 @@
 # Social Media Django Project
 ## Overview
-
+![img.png](pic_readme%2Fimg.png)
+![img_1.png](pic_readme%2Fimg_1.png)
+![img_2.png](pic_readme%2Fimg_2.png)
+![img_3.png](pic_readme%2Fimg_3.png)
+![img_4.png](pic_readme%2Fimg_4.png)
+![img_5.png](pic_readme%2Fimg_5.png)
 This project is a social media web application built using Django. It provides core functionalities such as user profiles, post creation, liking posts, following/unfollowing users, and user recommendations.
 
 ## Features
@@ -38,8 +43,8 @@ This project is a social media web application built using Django. It provides c
 
 ### 1. Clone the Repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone git@github.com:wulitina/social_media.git
+   cd social_media
 ```
 or set up a new project by yourself
 
